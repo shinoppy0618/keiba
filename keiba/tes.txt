@@ -1,0 +1,16 @@
+0,1,54,sameshimari,424
+0,2,54,takeyu,442
+0,3,54,hamanakasu,450
+0,4,54,kawadayu,450
+0,5,54,iwatami,482
+0,6,54,fukunagayu,434
+0,7,54,tanabehi,454
+0,8,54,dannota,474
+0,9,51,ozawada,414
+0,10,51,tsunodaya,446
+0,11,54,ikezoeke,434
+0,12,54,yokoyamata,448
+0,13,54,miyukihi,458
+0,14,54,matsuyamako,450
+0,15,54,wadari,506
+0,16,54,fuziokako,480
